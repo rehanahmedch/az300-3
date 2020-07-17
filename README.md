@@ -1,4 +1,5 @@
-https://github.com/jbinko/AZ-300-Microsoft-Azure-Architect-Technologies
+Init from https://github.com/tomi/az-300-study-notes
+Base on https://github.com/jbinko/AZ-300-Microsoft-Azure-Architect-Technologies
 
 # Deploy and Configure Infrastructure (25-30%)
 
